@@ -1,2 +1,2 @@
-# woo_token
-WOO token main contract
+# WOO token contract
+WOO token for ethereum mainnet contract
